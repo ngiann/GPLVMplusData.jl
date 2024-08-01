@@ -1,0 +1,7 @@
+[duckdata]
+git-tree-sha1 = "269feced4fb96774cadba018c1efa9f5dc445bf6"
+lazy = true
+
+    [[duckdata.download]]
+    sha256 = "7e7c020be03e099b1ade581fb1e02073872b4490a8f8e9965115fda1eaa4a714"
+    url = "https://www.dropbox.com/scl/fi/easf0xkovuypgn3bkhkf5/Ducks_72_128x128.jld2.tar.gz?rlkey=rgfbiwp1zp13zm3ka5p5s36po"

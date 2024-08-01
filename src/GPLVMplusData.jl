@@ -1,5 +1,9 @@
 module GPLVMplusData
 
-# Write your package code here.
+    using Printf, LazyArtifacts, Artifacts, JLD2
+
+    include("loadducks.jl")
+
+    export loadducks
 
 end

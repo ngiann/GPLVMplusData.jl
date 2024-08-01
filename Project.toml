@@ -3,6 +3,12 @@ uuid = "4c3045de-0da2-483a-8ead-ab5165d83806"
 authors = ["Nikos Gianniotis <ngiann@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
 [compat]
 julia = "1.6.7"
 
