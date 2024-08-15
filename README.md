@@ -1,4 +1,4 @@
-# GPLVMplusData
+<h1 align="center">GPLVMplusData.jl</h1>
 
 Provides `loadducks` function that loads dataset of 72 images depicting a rubber duck photographs from 72 angles.
 
