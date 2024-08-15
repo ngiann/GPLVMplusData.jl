@@ -1,7 +1,5 @@
 # GPLVMplusData
 
-[![Build Status](https://github.com/ngiann/GPLVMplusData.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/ngiann/GPLVMplusData.jl/actions/workflows/CI.yml?query=branch%3Amain)
-
 Provides `loadducks` function that loads dataset of 72 images depicting a rubber duck photographs from 72 angles.
 
 Example:
