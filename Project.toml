@@ -1,7 +1,7 @@
 name = "GPLVMplusData"
 uuid = "4c3045de-0da2-483a-8ead-ab5165d83806"
 authors = ["Nikos Gianniotis <ngiann@gmail.com> and contributors"]
-version = "1.0.0-DEV"
+version = "1.0.1-DEV"
 
 [deps]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
