@@ -8,7 +8,17 @@ If you use the dataset for your academic work, please cite the following paper a
 S. A. Nene, S. K. Nayar and H. Murase,
 Technical Report CUCS-005-96, February 1996.
 
-Example:
+Apart from cloning, an easy way of using the package is the following:
+
+1 - Add the registry [AINJuliaRegistry](https://github.com/HITS-AIN/AINJuliaRegistry)
+
+2 - Switch into "package mode" with `]` and add the package with
+```
+add GPLVMplus
+```
+
+# Example
+
 ```
 using PyPlot # must be independently installed, other packages can be used instead
 X = GPLVMplusData.loadducks();
