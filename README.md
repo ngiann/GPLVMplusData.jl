@@ -14,7 +14,7 @@ Apart from cloning, an easy way of using the package is the following:
 
 2 - Switch into "package mode" with `]` and add the package with
 ```
-add GPLVMplus
+add GPLVMplusData
 ```
 
 # Example
