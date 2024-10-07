@@ -33,4 +33,7 @@ pcolor(rot180(reshape(X[:,1],64,64)))
 
 X = GPLVMplusData.loadducks(;every=3); # subsamble images to 43×43.
 pcolor(rot180(reshape(X[:,1],43,43)))
+
+X = GPLVMplusData.loadducks(;every = 4); # subsamble images to 32×32.
+pcolor(rot180(reshape(X[:,1],32,32)))
 ```
